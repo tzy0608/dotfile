@@ -18,6 +18,7 @@ return {
 				markdown = { "prettier" },
 				graphql = { "prettier" },
 				liquid = { "prettier" },
+				astro = { "prettier" },
 				lua = { "stylua" },
 				python = { "isort", "black" },
 			},
